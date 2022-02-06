@@ -37,9 +37,9 @@ Khulna University,Khulna.
 
 Developed by:
 
-Md.Shafayat Jamil (170229) 
-
 Sirdarta Prasad Banik (170206) 
+
+Md.Shafayat Jamil (170229) 
 
 S.M Nabil Sakif (170230) 
 
