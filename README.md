@@ -39,7 +39,7 @@ Developed by:
 
 Md.Shafayat Jamil (170229) 
 
-Shirdarta Prasad Banik (170206) 
+Sirdarta Prasad Banik (170206) 
 
 S.M Nabil Sakif (170230) 
 
